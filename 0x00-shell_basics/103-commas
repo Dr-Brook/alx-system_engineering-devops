@@ -1,0 +1,2 @@
+#!/bin/bash
+'ls -p | grep -v / | sort -f | sed 's/^/\//' | sed 's/\/\./\./' | xargs -I {} echo -n {}, | sed 's/,$/\n/'
