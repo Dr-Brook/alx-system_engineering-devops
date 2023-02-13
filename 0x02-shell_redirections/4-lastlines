@@ -1,2 +1,2 @@
 #!/bin/bash
-tell -n 10 /etc/passwd
+cd /etc tell -n 10 passwd
