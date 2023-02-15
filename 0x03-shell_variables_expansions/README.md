@@ -9,5 +9,7 @@ script that lists all local variables and environment variables, and functions
 script that creates a new local variable.
 	Name: BEST
 	Value: School
-
+script that creates a new global variable.
+	Name: BEST
+	Value: School
 
